@@ -7,6 +7,7 @@ The idea for the project is to try out different algorithms from Machine Learnin
 - [ ] Use Logistic Regression
 - [ ] Use Random Forest
 - [ ] Use SVC
+- [ ] Also visualize the learning rate
 
 
 ## Data
