@@ -8,9 +8,16 @@ The idea for the project is to try out different algorithms from Machine Learnin
 - [x] Use Random Forest
 - [x] Use SVC
 - [ ] Also visualize the learning rate
+- [ ] Validate the neural network grid search results with test data
+
+- [ ] Compare to other disasters:
+    - Lousitania: https://www.kaggle.com/datasets/rkkaggle2/rms-lusitania-complete-passenger-manifest
+    - Estonia: https://www.kaggle.com/datasets/christianlillelund/passenger-list-for-the-estonia-ferry-disaster
+
+- [ ] Data processing e.g.: https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial#2.-Feature-Engineering
+
 - [ ] Grid search for other classifiers
 - [ ] Crossvalidation
-- [ ] Validate the neural network grid search results with test data
 - [ ] XAI
 - [ ] Hyperparameter optimization
 - [ ] MAybe do some clustering?
